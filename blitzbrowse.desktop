@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=BlitzBrowse
+Comment=Fast Lightning Web Browser
+Exec=/home/vishnu/my-browser-project/myenv/bin/python3 /home/vishnu/my-browser-project/simple_browser.py
+Icon=/home/vishnu/my-browser-project/blitzbrowse-icon.png
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;Internet;
+StartupNotify=true
